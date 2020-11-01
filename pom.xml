@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>BSP-ItemShops</groupId>
 	<artifactId>BSP-ItemShops</artifactId>
-	<version>1.1.0</version>
+	<version>1.2.0</version>
 	<name>ItemShops</name>
 	<description>Create fancy GUI shops with minimal effort.</description>
 	<build>
