@@ -5,3 +5,4 @@ author: Black_ixx
 website: http://felix.neuby.de
 main: org.black_ixx.bossshop.addon.itemshops.ItemShops
 depend: [BossShopPro]
+api-version: 1.13
