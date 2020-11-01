@@ -51,7 +51,8 @@
 			<groupId>org.black_ixx</groupId>
 			<artifactId>BossShopPro</artifactId>
 			<version>1.9.9</version>
-			<scope>provided</scope>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/libs/BossShopPro.jar</systemPath>
 		</dependency>
 	</dependencies>
 </project>
